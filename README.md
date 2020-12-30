@@ -51,7 +51,7 @@ Some of the test images are given below.
 ![test](Snips/R_5.JPG)
 
 
-## Conclusion :
+## Conclusions :
 
 In this project we developed several approaches for the development of an app for the identification of dog breeds, and we achieved our best results with the application of a transfer learning model. We achieved an accuracy of 83% in our tests using InceptionV3 Model. 
 
